@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+color:#FF0404;
+font-family:Oxygen;
+  text-decoration:underline;
+}
+mark{
+color:#0300a8;;
+}
+p{
+color:#097714;
+  text-align:justify;
+ 
+}
+ol{
+  color:#7b9509;
+}
+img{
+  padding-bottom:10px;
+}
+blockquote{
+  color:#960099;
+  font-family:Arial;
+}
